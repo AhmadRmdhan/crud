@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549014401685",
+    "project_id": "crud-catatan",
+    "storage_bucket": "crud-catatan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549014401685:android:3d5d26d8bc542551c2219c",
+        "android_client_info": {
+          "package_name": "com.example.crudcatatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549014401685-qp4iokab1tohotie9k7roi77mehqtsg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Cx_vifbdjft8JwxcGrX3Oa2tkfWJoDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549014401685-qp4iokab1tohotie9k7roi77mehqtsg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
